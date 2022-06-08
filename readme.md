@@ -1,4 +1,4 @@
-#CubeRace - AI learning to complete 'CubeRace'
+# CubeRace - AI learning to complete 'CubeRace'
 
 ### Introduction
 Cube race is a game that requires the user to dodge obstacles to reach the end of the obstacle course. The obstacles are randomly placed each game, meaning you can't simply learn how to complete one level, but develop the general skill of avoiding objects. 
