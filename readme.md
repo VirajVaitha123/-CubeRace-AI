@@ -1,6 +1,10 @@
-# Portfolio
+#CubeRace - AI learning to complete 'CubeRace'
 
 ### Introduction
+Cube race is a game that requires the user to dodge obstacles to reach the end of the obstacle course. The obstacles are randomly placed each game, meaning you can't simply learn how to complete one level, but develop the general skill of avoiding objects. 
+
+The game can be made more advanced in several other ways to assess the performance on teaching an AI agent, and exploring what techniques are required to help overcome such complexities.
+
 AvaSentinels is a community I created at work, helping find other people interested in Deep Reinforcement Learning. CubeRace is a game created by X, please follow the link below to play the original game.
 
 [ADD GIF OF GAME]
